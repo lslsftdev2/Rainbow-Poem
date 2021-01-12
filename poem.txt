@@ -9,6 +9,8 @@ Orange
 Blue
 Green
 Unicorn
+Earth
+Recycle
 Yellow
 Pony
 Red 
