@@ -1,6 +1,7 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Pony
 The Rainbow is awesome.
 There is a big unicorn on the sky.
+
 
 Purple 
 Pink
@@ -9,7 +10,9 @@ Blue
 Green
 Unicorn
 Yellow
+Pony
 Red 
 
 These are the colors of the rainbow.
 And the unicorn.
+And now we have a Pony.
